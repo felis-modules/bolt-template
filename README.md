@@ -6,11 +6,11 @@ this project enables you to get started faster
 
 ## Install
 
-First, you should install `[python 3](https://www.python.org/)` and `[poetry](https://github.com/python-poetry/poetry)`
+First, you should install [`python 3`](https://www.python.org/) and [`poetry`](https://github.com/python-poetry/poetry)
 
 `poetry` can load the pip dependencies easily like `npm` and make the virtual environment so that would not crash with your environment.
 
-After that, you can just build your project with `[beet](https://github.com/mcbeet/beet)`!
+After that, you can just build your project with [`beet`](https://github.com/mcbeet/beet)!
 
 First, install poetry project dependencies.
 
