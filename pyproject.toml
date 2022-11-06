@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "rad"
+version = "0.0.0"
+description = "Remnants of Arc Descendents"
+authors = ["felisZero <kcw2205@naver.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+beet = "^0.79.1"
+bolt = "^0.20.1"
+bolt-expressions = "^0.8.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

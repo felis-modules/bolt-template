@@ -1,0 +1,6 @@
+
+# compiled resoources
+dist/
+
+# beet compiled resource
+.beet_cache/

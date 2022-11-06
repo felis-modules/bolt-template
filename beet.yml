@@ -1,0 +1,12 @@
+name: rads
+description: Remnants of Arc Descendents
+author: felisZero
+require:
+  - bolt
+data_pack:
+  load: [src]
+resource_pack:
+  load: [resource]
+pipeline:
+  - mecha
+output: dist
