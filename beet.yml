@@ -1,6 +1,6 @@
-name: rads
-description: Remnants of Arc Descendents
-author: felisZero
+name: my-bolt-project
+description: Your Datapack Description Here
+author: datapack author
 require:
   - bolt
 data_pack:
